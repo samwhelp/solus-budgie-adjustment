@@ -10,7 +10,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Solus Budgie Adjustment](https://samwhelp.github.io/solus-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/solus-budgie-adjustment) |
-| [Solus Adjustment](https://samwhelp.github.io/mxlinux-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-adjustment) |
+| [Solus Adjustment](https://samwhelp.github.io/solus-adjustment/) | [GitHub](https://github.com/samwhelp/solus-adjustment) |
 | [Solus Budgie Note](https://samwhelp.github.io/note-about-solus-budgie/) | [GitHub](https://github.com/samwhelp/note-about-solus-budgie) |
 
 
@@ -29,7 +29,7 @@
 | Script |
 | ------ |
 | [Solus Budgie Config](https://github.com/samwhelp/solus-budgie-adjustment/tree/main/prototype/main/budgie-config) |
-| [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
+| [Tool Config](https://github.com/samwhelp/solus-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
