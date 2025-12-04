@@ -35,6 +35,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Budgie Adjustment](https://samwhelp.github.io/budgie-adjustment/) | [GitHub](https://github.com/samwhelp/budgie-adjustment) |
+| [Debian Budgie Adjustment](https://samwhelp.github.io/ubuntu-debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-budgie-adjustment) |
 | [Ubuntu Budgie Adjustment](https://samwhelp.github.io/ubuntu-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-budgie-adjustment) |
 | [Fedora Budgie Adjustment](https://samwhelp.github.io/ubuntu-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-budgie-adjustment) |
 | [Ultramarine Budgie Adjustment](https://samwhelp.github.io/ultramarine-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-budgie-adjustment) |
