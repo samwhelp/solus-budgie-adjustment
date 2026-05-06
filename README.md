@@ -28,6 +28,12 @@
 | [budgie-adjustment](https://github.com/samwhelp/solus-budgie-adjustment/tree/main/demo/scripts/main/budgie-adjustment) |
 
 
+| Style Management |
+| ---------------- |
+| [make-budgie-style](https://github.com/samwhelp/make-budgie-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
 
 
 ## Link
